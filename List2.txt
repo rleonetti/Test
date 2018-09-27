@@ -1,0 +1,329 @@
+89148000004305993498
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+40
+019f99ee-2c77-4743-90c3-760c68e4f19d
+89148000004306091961
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+38
+eaf89ed8-f556-498a-9278-6213c7e6bf6a
+89148000003218504293
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+14
+00a68013-20f9-494f-91e2-427fc237aad6
+89148000003914135590
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+13
+2b205543-0f95-4ca9-ae73-fcbe57518e16
+89148000004305528633
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+13
+f4481e49-aba2-4c5f-9ca6-ab9409f95c60
+89148000004306208789
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+13
+3c70fc7b-8c6c-4015-8e67-67733ec583ea
+89148000004306289599
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+13
+dd4f4c01-b1c7-4bbd-a9e0-98bee8321966
+89148000004306152102
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+12
+7d0fd4dc-fe94-4e70-bfd8-35a340b350d0
+89148000004307229925
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+12
+c556ceb5-5f84-4222-aab7-913212e46989
+89148000003914534099
+Verizon
+Qualcomm MSM8926
+Activation Needed
+9/27/2018 9:59:57 am
+12
+381d5825-7f92-421d-ac03-252b203bf01a
+89148000003914405944
+Verizon
+Qualcomm MSM8926
+Activation Needed
+9/27/2018 9:59:57 am
+12
+62f32ee6-e287-450b-b3c6-b405e0b48432
+89148000003633711648
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+11
+664a0768-ec8e-4b05-a2fd-5699b78dece0
+89148000003913251836
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+11
+218632dd-6bc1-4fb6-9519-d844e5830d5e
+89148000004305068903
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+10
+e6c9db86-ab68-48ba-9d9e-99e23aa00838
+89148000004305991534
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+10
+fea4a3dc-9e75-4546-be81-b8f5563c2df3
+89148000003914504365
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+9
+b4447e02-5770-46a0-9b5d-2c1edbe6b6e0
+89148000004304953659
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+9
+0e0dd100-3b34-477c-89e1-417cb2a8a2b3
+89148000004306122964
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+9
+4fc75372-536d-4c1f-9ba8-d8969b98bc85
+89148000004306315949
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+9
+6fcca487-82c0-454e-9147-7db7231dce8a
+89148000003913490772
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+8
+a04ca523-7d75-448b-8241-548117f23d26
+89148000004306445415
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+8
+39d2f874-ff47-4b51-8bc2-0b991a20c5c4
+89148000004305989900
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+8
+8bc74841-ee28-4edb-96a8-8d6b8ce6c90e
+89148000003914648246
+Verizon
+Qualcomm MSM8926
+Activation Needed
+9/27/2018 9:59:57 am
+7
+494831c0-0ed0-4b1b-a881-2a4723f78fe7
+89148000004306196521
+Verizon
+Qualcomm MSM8926
+Activation Needed
+9/27/2018 9:59:57 am
+7
+78717db7-bfeb-4d2e-b3f3-6353e8295911
+89148000003792672805
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+6
+509ff10a-fdab-4c36-b0dd-b846d38c8a4f
+89148000004304980942
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+6
+f967ad4f-17f4-41a9-b255-09aafd15ae8d
+89148000003914924373
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+6
+5c68604f-e547-42a4-843a-0f4ed5ec37c8
+89148000004305634092
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+6
+f344a0be-e48b-4913-b8ee-287af082b1e2
+89148000004306507495
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+6
+e0a310ca-5f1e-4c40-abcc-6238c5fa6eb7
+89148000003227629529
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+5
+5d6a2286-8706-41c0-b130-e9a1c69e0189
+89148000003791290054
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+5
+d975127c-0e0d-4dff-a64b-b1d9431f8fc5
+89148000003914970095
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+5
+bb10915a-8608-4e64-9450-c2e999587f92
+89148000003911813223
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+5
+9720b532-072f-42d1-ba23-8a329b8ed43f
+89148000003914081943
+Verizon
+Qualcomm MSM8926
+Activation Needed
+9/27/2018 9:59:57 am
+5
+e42d57b6-4598-4679-a69f-2039126d394b
+89148000003914244681
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+4
+1aeddcca-20af-4a39-a7c8-2b24924ce26c
+89148000004304921268
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+4
+13b1abc8-1caa-40ce-886c-e2a2519808f7
+89148000004306125223
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+4
+26626dff-853e-4e0e-97ed-a306aa9d71dc
+89148000003913306168
+Verizon
+Qualcomm MSM8926
+Activation Needed
+9/27/2018 9:59:57 am
+4
+127b2c8a-d7ee-4f1f-9a86-25617240703f
+89148000003791434652
+Verizon
+Qualcomm MSM8926
+Activation Needed
+9/27/2018 9:59:57 am
+4
+1a87ffdd-4a8b-44d8-9c2f-dd92a94483b3
+89148000003914892356
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+3
+c5fc4ef6-ce18-4a26-bf41-ed913bc93c23
+89148000004306023972
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+3
+9ca4ba2f-1047-48d6-9ab2-cf15a51bd790
+89148000004307202724
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+3
+1f916db3-98b7-49a8-8538-4f4caf9071ca
+89148000004305237177
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+2
+3f90267a-88db-4748-be94-f7319f9c2c6a
+89148000004305989777
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:55 am
+2
+f68034d1-7fb5-4335-b441-41408ebdfbb4
+89148000003913763228
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:54 am
+1
+4735c976-95e6-4b5e-9774-ed55f5a062e4
+89148000004305570817
+Verizon
+Qualcomm MSM8926
+Activation Needed
+9/27/2018 9:59:20 am
+1
+349fb3b2-14bb-447a-8989-e45a2f5c853a
+89148000004306312334
+Verizon
+Telit LE910 (LTE)
+Activation Needed
+9/27/2018 9:59:57 am
+0
+b23e292e-b3c9-40d7-aa2f-4d5a86b1dd72
